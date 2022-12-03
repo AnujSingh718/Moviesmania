@@ -1,4 +1,7 @@
-# Moviesmania![Screenshot (82)](https://user-images.githubusercontent.com/103810977/205432253-b2c29a69-d48e-4445-b59a-bd5a028546db.png)
-![Screenshot (83)](https://user-images.githubusercontent.com/103810977/205432256-e11afd5c-dd8e-4cba-be8c-591da49dcc9f.png)
-![Screenshot (84)](https://user-images.githubusercontent.com/103810977/205432263-4c3fc844-a172-46f8-8dbb-671fbafa15c5.png)
-![Screenshot (85)](https://user-images.githubusercontent.com/103810977/205432267-696471b9-13a5-4043-bf8c-7d7041b37c98.png)
+The home page where we can read the reviews of movies
+![Screenshot (82)](https://user-images.githubusercontent.com/103810977/205432341-c7e4f2e7-7ddf-47bf-8f37-eb7d7c18d662.png)
+when clicked on the  the movie name it shows detail review of the movie![Screenshot (86)](https://user-images.githubusercontent.com/103810977/205432346-296fa3d8-9049-4274-b25c-e7b14bbf8463.png)
+
+The about page of the website![Screenshot (83)](https://user-images.githubusercontent.com/103810977/205432349-a8951589-60e5-4e51-a0ae-d177587c879a.png)
+  The page where users enter the details![Screenshot (84)](https://user-images.githubusercontent.com/103810977/205432352-b934d8af-8236-4d8c-8c75-f8e8203e4096.png)
+ Storing the data from the users in the database using MongoDB![Screenshot (85)](https://user-images.githubusercontent.com/103810977/205432368-52ad7f5a-9982-4f00-8f47-b7ab4ed4513b.png)
